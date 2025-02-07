@@ -3,8 +3,16 @@
 
 int main () {
 
+  /*
+   *  This mini-project is a solver for quadratic equations using the general formula
+   *
+   * */
+
+  // edit numbers depending on based on the main equatiom:
+  // ax^2 + bx + c = 0 
+
   int 
-    a = 1,
+    a = 1, 
     b = 1,
     c = 0;
 
